@@ -16,10 +16,11 @@
 ![image](https://github.com/user-attachments/assets/5f07e8a4-97f2-4fa0-83aa-8ff1d07a7f05)
 
 # 3-Haz uno que pregunte los numero triunfadores de la lotería , y llene una lista que se va a mostrar en pantalla de menor a mayor.
-![image](https://github.com/user-attachments/assets/2d345066-5567-4724-a7a4-cceeb96facbd)
-![image](https://github.com/user-attachments/assets/387f8351-c47e-47ff-8171-d6b4b6886b79)
+![image](https://github.com/user-attachments/assets/9a05d45b-c4de-4681-9fa1-46653edaba2a)
+
 # EJECUCION
-![image](https://github.com/user-attachments/assets/d11a67eb-28aa-4613-8c52-5dc65dcc1a29)
+![image](https://github.com/user-attachments/assets/f8928547-dee6-4712-ba29-a418e9cec305)
+
 
 
 
